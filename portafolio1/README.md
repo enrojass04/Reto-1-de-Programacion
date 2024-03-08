@@ -10,7 +10,11 @@ Reto de programación 1 BootCamp Talento Tech.
 
 ## Capturas de Pantalla
 
-Inserta capturas de pantalla o enlaces a demostraciones visualmente atractivas de tu aplicación.
+![Imagen 1 de Mi Proyecto](src/assets/ProjectImages/pt1.png)
+![Imagen 2  de Mi Proyecto](src/assets/ProjectImages/pt1.png)
+![Imagen 3  de Mi Proyecto](src/assets/ProjectImages/pt1.png)
+![Imagen 4  de Mi Proyecto](src/assets/ProjectImages/pt1.png)
+![Imagen 5  de Mi Proyecto](src/assets/ProjectImages/pt1.png)
 
 ## Primeros pasos
 
